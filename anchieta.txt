@@ -2,4 +2,9 @@ pimpolho
 ECHO est  ativado.
 cala boca 
 awnn  
+<<<<<<< HEAD
 porra cansei 4 linha 
+=======
+me mama ai 
+meu deus feature 
+>>>>>>> feature
