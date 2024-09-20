@@ -1,0 +1,3 @@
+pimpolho 
+ECHO est  ativado.
+cala boca 
